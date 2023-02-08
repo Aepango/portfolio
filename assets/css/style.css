@@ -1,0 +1,47 @@
+body {
+    color: #25482B;
+    background-color: #53885C;
+
+
+}
+
+header {
+    color: #25482B;
+}
+
+#heading-wrap {
+    color: #25482B;
+    font-size: 35px;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    color:#25482B
+
+}
+
+#bio-pic {
+    width: 355px;
+    border-radius: 205px;
+}
+
+#vintage {
+    width: 200px;
+    display: flex;
+}
+
+#cats {
+    width: 400px;
+    display: flex;
+}
+
+#mushrooms {
+    width: 175px;
+    display: flex;
+}
+
+#park {
+    width: 165px;
+    display: flex;
+}
